@@ -1,0 +1,29 @@
+---
+title: "Photography"
+---
+
+Due to the impact of COVID-19 and my research activities for my Master's degree, I am trying to participate in the bicycle long-distance event Brevet, which has been on hiatus since 2016; I aim to complete 200 km, 300 km, 400 km and 600 km in order to be able to participate in PBP 2027. Through self-portraits I capture the essence of my own being and reflect on my own journey through time. Each photograph is a reflection of my own experiences and emotions. Through these photos I hope to offer a glimpse into my life as a learner and explorer, and to inspire others to reflect on their own round-the-world journeys.
+
+::: {layout-ncol=2}
+
+![](kizen_image_3.jpg)
+
+![](kizen_image_2.jpg)
+
+![](kizen_image_1.jpg)
+
+![](kizen_image_7.jpg)
+![](kizen_image_4.jpg)
+![](kizen_image_6.jpg)
+![](kizen_image_5.jpg)
+
+
+
+:::
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```
